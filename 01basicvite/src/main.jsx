@@ -9,6 +9,6 @@ const Element = React.createElement(
 
 createRoot(document.getElementById('root')).render(
   <>
-    <Element />
+    {Element}
   </>
 )
